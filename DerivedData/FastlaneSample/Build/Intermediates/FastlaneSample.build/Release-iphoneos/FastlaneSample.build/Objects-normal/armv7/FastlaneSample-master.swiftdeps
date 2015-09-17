@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "888b60d3c367e9b93aab4f3ad0a66941"
+inputs: 
+- "/Users/ryoto/Work/FastlaneSample/FastlaneSample/ViewController.swift"
+- "/Users/ryoto/Work/FastlaneSample/FastlaneSample/AppDelegate.swift"

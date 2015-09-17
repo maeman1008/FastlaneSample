@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "0bf2e0fa046e04939639b504049818fb"
+inputs: 
+- "/Users/ryoto/Work/FastlaneSample/FastlaneSampleTests/FastlaneSampleTests.swift"
